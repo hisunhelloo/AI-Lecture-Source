@@ -1,0 +1,16 @@
+# OpenCV 이미지 처리 Streamlit 앱 필수 라이브러리
+
+# Streamlit - 웹 앱 프레임워크
+streamlit>=1.28.0
+
+# OpenCV - 이미지 처리 라이브러리
+opencv-python>=4.8.0
+
+# NumPy - 수치 연산 및 배열 처리
+numpy>=1.24.0
+
+# Pillow - 이미지 파일 입출력
+Pillow>=10.0.0
+
+# Matplotlib - 이미지 시각화 (선택사항, 일부 기능에서 사용)
+matplotlib>=3.7.0
